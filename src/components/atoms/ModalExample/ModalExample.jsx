@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import "./Modal.css";
+import "./modal.css";
 
 const ModalExample = () => {
   const modalRef = useRef(null);
